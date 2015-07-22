@@ -14,7 +14,7 @@ namespace Log4NetExample
         protected override void Append(LoggingEvent loggingEvent)
         {
             string message = RenderLoggingEvent(loggingEvent);
-            Console.WriteLine("From Custom Appender" + message);
+            Console.Write("From Custom Appender" + message);
         }
     }
 }

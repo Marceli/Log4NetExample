@@ -21,7 +21,7 @@ namespace Log4NetExample
                 {
                     break;
                 }
-                log.Info(i);
+                log.Error(i);
                
                 i++;
                 Thread.Sleep(1000);
