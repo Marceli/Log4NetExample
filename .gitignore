@@ -31,7 +31,9 @@ bld/
 TestResult.xml
 
 .Resharper
+
 .Resharper6
+
 
 
 # Build Results of an ATL Project
