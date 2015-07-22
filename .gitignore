@@ -32,6 +32,9 @@ TestResult.xml
 
 .Resharper
 
+.Resharper2
+
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
