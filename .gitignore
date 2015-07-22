@@ -30,6 +30,8 @@ bld/
 *.VisualState.xml
 TestResult.xml
 
+.Resharper
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
